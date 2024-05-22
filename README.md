@@ -1,2 +1,5 @@
 # Optix-Triangle-EGL-Offscreen-Renderer
-Glad 2 should be in support.
+Just add the new files to support.All other examples will render normaly, but optixTriangle will render offscreen.
+For Optix-SDK-8.0
+    EGL 1.5
+    CMAKE
