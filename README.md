@@ -7,4 +7,5 @@ For Optix-SDK-8.0
 
 Build:
 cd SDK
+
 make OptixTriangle
