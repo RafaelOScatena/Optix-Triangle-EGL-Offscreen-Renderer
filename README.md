@@ -4,3 +4,7 @@ Just add the new files to support.All other examples will render normally, but o
 For Optix-SDK-8.0
     EGL 1.5
     CMAKE
+
+Build:
+cd SDK
+make OptixTriangle
