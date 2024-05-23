@@ -1,4 +1,4 @@
-# Optix-Triangle-EGL-Offscreen-Renderer
+# OptixTriangle EGL-Offscreen-Renderer
 Just add the new files to support.All other examples will render normally, but optixTriangle will render offscreen and save as .png.
 
 For Optix-SDK-8.0
